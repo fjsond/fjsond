@@ -5,7 +5,7 @@
 
 Feel free to reach out to me on my socials!
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/embed/track/561pBFcFL2Pwb9HPO9tU8J)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)(https://open.spotify.com/embed/track/561pBFcFL2Pwb9HPO9tU8J)]
 
 <!--
 **fjsond/fjsond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
