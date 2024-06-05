@@ -5,7 +5,7 @@
 
 Feel free to reach out to me on my socials!
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fjsond&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fjsond&show_icons=true&locale=en&layout=compact&theme=solarized-light" alt="ovi" />
 
 <!--
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)(https://open.spotify.com/embed/track/561pBFcFL2Pwb9HPO9tU8J)]
